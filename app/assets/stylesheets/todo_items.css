@@ -2,3 +2,14 @@
   Place all the styles related to the matching controller here.
   They will automatically be included in application.css.
 */
+.glyphicon-ok {
+  color:green;
+}
+.table {
+  width: 100%;
+}
+
+.link {
+  font-size: 20px;
+  font-weight: bold;
+}
